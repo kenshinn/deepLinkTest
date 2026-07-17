@@ -1,0 +1,37 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WSF8C32N4B.com.viverse.app.mobile",
+        "paths": [
+          "NOT /about",
+          "NOT /about/*",
+          "NOT /terms-of-use",
+          "NOT /terms-of-use/*",
+          "NOT /business",
+          "NOT /business/*",
+          "NOT /my-profile",
+          "NOT /my-profile/*",
+          "NOT /zh-TW/about",
+          "NOT /zh-TW/about/*",
+          "NOT /zh-TW/terms-of-use",
+          "NOT /zh-TW/terms-of-use/*",
+          "NOT /zh-TW/business",
+          "NOT /zh-TW/business/*",
+          "NOT /zh-TW/my-profile",
+          "NOT /zh-TW/my-profile/*",
+          "NOT /ja-JP/about",
+          "NOT /ja-JP/about/*",
+          "NOT /ja-JP/terms-of-use",
+          "NOT /ja-JP/terms-of-use/*",
+          "NOT /ja-JP/business",
+          "NOT /ja-JP/business/*",
+          "NOT /ja-JP/my-profile",
+          "NOT /ja-JP/my-profile/*",
+          "*"
+        ]
+      }
+    ]
+  }
+}
